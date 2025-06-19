@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "6853e6be67fc17e23bee0b31"
+  },
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "genre": "Fiction",
+  "published_year": 1960,
+  "price": 12.99,
+  "in_stock": true,
+  "pages": 336,
+  "publisher": "J. B. Lippincott & Co."
+},
+{
+  "_id": {
+    "$oid": "6853e6be67fc17e23bee0b36"
+  },
+  "title": "The Catcher in the Rye",
+  "author": "J.D. Salinger",
+  "genre": "Fiction",
+  "published_year": 1951,
+  "price": 8.99,
+  "in_stock": true,
+  "pages": 224,
+  "publisher": "Little, Brown and Company"
+},
+{
+  "_id": {
+    "$oid": "6853e6be67fc17e23bee0b38"
+  },
+  "title": "The Lord of the Rings",
+  "author": "J.R.R. Tolkien",
+  "genre": "Fantasy",
+  "published_year": 1954,
+  "price": 19.99,
+  "in_stock": true,
+  "pages": 1178,
+  "publisher": "Allen & Unwin"
+},
+{
+  "_id": {
+    "$oid": "6853e6be67fc17e23bee0b3a"
+  },
+  "title": "The Alchemist",
+  "author": "Paulo Coelho",
+  "genre": "Fiction",
+  "published_year": 1988,
+  "price": 10.99,
+  "in_stock": true,
+  "pages": 197,
+  "publisher": "HarperOne"
+}]

@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "6853e6be67fc17e23bee0b35"
+  },
+  "title": "The Hobbit",
+  "author": "J.R.R. Tolkien",
+  "genre": "Fantasy",
+  "published_year": 1937,
+  "price": 14.99,
+  "in_stock": true,
+  "pages": 310,
+  "publisher": "George Allen & Unwin"
+},
+{
+  "_id": {
+    "$oid": "6853e6be67fc17e23bee0b38"
+  },
+  "title": "The Lord of the Rings",
+  "author": "J.R.R. Tolkien",
+  "genre": "Fantasy",
+  "published_year": 1954,
+  "price": 19.99,
+  "in_stock": true,
+  "pages": 1178,
+  "publisher": "Allen & Unwin"
+}]

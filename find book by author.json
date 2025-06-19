@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "6853e6be67fc17e23bee0b31"
+  },
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "genre": "Fiction",
+  "published_year": 1960,
+  "price": 12.99,
+  "in_stock": true,
+  "pages": 336,
+  "publisher": "J. B. Lippincott & Co."
+}]
